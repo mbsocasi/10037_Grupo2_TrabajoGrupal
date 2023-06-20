@@ -260,3 +260,7 @@
   new PureCounter();
 
 })()
+
+ $(document).ready(function(){
+        $(".slider").bxSlider();
+      });
