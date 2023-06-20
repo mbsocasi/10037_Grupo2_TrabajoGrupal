@@ -1,0 +1,8 @@
+
+<div class="card">
+  <div class="card-body">
+    <h2 class="card-title">Contenido del AJAX</h2>
+    <p>El contenido puede ser cualquier cosa</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, repudiandae incidunt. Voluptatem, consequatur recusandae deserunt eveniet repellendus voluptatum ratione esse, voluptate ducimus eligendi ea architecto est fugiat sapiente, iste dignissimos.</p>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+{
+    "countries": [
+      {
+        "name": "Estados Unidos",
+        "population": 331002651,
+        "territory": 9629091
+      },
+      {
+        "name": "Canadá",
+        "population": 37742154,
+        "territory": 9976140
+      },
+      {
+        "name": "Brasil",
+        "population": 213993437,
+        "territory": 8515767
+      },
+      {
+        "name": "Australia",
+        "population": 25788216,
+        "territory": 7692024
+      }
+    ]
+  }
+  
