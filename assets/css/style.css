@@ -241,8 +241,9 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../..//img/fondo.png") top center;
   background-size: cover;
+  opacity: 0.9;
 }
 
 #hero:before {
@@ -1104,3 +1105,8 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.img1 {
+                width: 100%;
+                height: 500px;
+            }
